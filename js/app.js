@@ -230,6 +230,46 @@ const menu = [
     price: 16,
     img: "https://lh3.googleusercontent.com/proxy/NOFcd-yrFKwt_kI8kYdA62lW093SiVHn0Lwf5nd8ABy2JngsxHRedmApbFnFy8ZADPA3d8jpuuqwlP7g4v1LMmP9m1cKSEjZkLMvF2leaIAyHh6R4vJAm6o",
     description: "Refresco natural de 1 lt."
+  },
+  {
+    id: 30,
+    title: "Burrito de Pastor",
+    category: "Gringas-Burritos",
+    price: 45,
+    img: "./images/platillo1.jpeg",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, nesciunt amet tenetur doloremque."
+  },
+  {
+    id: 31,
+    title: "Burrito Surtido",
+    category: "Gringas-Burritos",
+    price: 45,
+    img: "./images/platillo2.jpeg",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, nesciunt amet tenetur doloremque."
+  },
+  {
+    id: 32,
+    title: "Burrito de Bistec",
+    category: "Gringas-Burritos",
+    price: 50,
+    img: "./images/platillo3.jpeg",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, nesciunt amet tenetur doloremque."
+  },
+  {
+    id: 33,
+    title: "Burrito de Suadero",
+    category: "Gringas-Burritos",
+    price: 50,
+    img: "./images/platillo4.jpeg",
+    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, nesciunt amet tenetur doloremque."
+  },
+  {
+    id: 34,
+    title: "Torta de Suadero",
+    category: "trancas-tortas",
+    price: 35,
+    img: "./images/platillo4.jpeg",
+    description: "Rica carne de suadero en bolillo del día.<span>Con queso $40</span>"
   }
 ];
 
